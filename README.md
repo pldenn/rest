@@ -1,5 +1,5 @@
 
-
+[![Build status](https://ci.appveyor.com/api/projects/status/pylkt5tpbsp8p0yx/branch/master?svg=true)](https://ci.appveyor.com/project/pldenn/rest/branch/master)
 
 # Домашнее задание к занятию «1.2. Тестирование API, CI»
 
